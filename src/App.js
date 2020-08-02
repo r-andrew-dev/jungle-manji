@@ -182,6 +182,10 @@ export default function App() {
           <Route path="/jungle-manji/30">
             <Card30 />
           </Route>
+          <Route path="/">
+            <Home />
+          </Route>
+
         </Switch>
       </div>
     </Router>
