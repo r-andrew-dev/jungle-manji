@@ -17,7 +17,7 @@ export default function App() {
               <Link to="/">JungleManji</Link>
             </li>
             <li>
-              <Link to="/1">1</Link>
+              <Link to="/jungle-manji/1">1</Link>
             </li>
             <li>
               <Link to="/2">2</Link>
@@ -92,94 +92,94 @@ export default function App() {
         </nav>
 
         <Switch>
-          <Route path="/1">
+          <Route path="/jungle-manji/1">
             <Card1 />
           </Route>
-          <Route path="/2">
+          <Route path="/jungle-manji/2">
             <Card2 />
           </Route>
-          <Route path="/3">
+          <Route path="/jungle-manji/3">
             <Card3 />
           </Route>
-          <Route path="/4">
+          <Route path="/jungle-manji/4">
             <Card4 />
           </Route>
-          <Route path="/5">
+          <Route path="/jungle-manji/5">
             <Card5 />
           </Route>
-          <Route path="/6">
+          <Route path="/jungle-manji/6">
             <Card6 />
           </Route>
-          <Route path="/7">
+          <Route path="/jungle-manji/7">
             <Card7 />
           </Route>
-          <Route path="/8">
+          <Route path="/jungle-manji/8">
             <Card8 />
           </Route>
-          <Route path="/9">
+          <Route path="/jungle-manji/9">
             <Card9 />
           </Route>
-          <Route path="/10">
+          <Route path="/jungle-manji/10">
             <Card10 />
           </Route>
-          <Route path="/11">
+          <Route path="/jungle-manji/11">
             <Card11 />
           </Route>
-          <Route path="/12">
+          <Route path="/jungle-manji/12">
             <Card12 />
           </Route>
-          <Route path="/13">
+          <Route path="/jungle-manji/13">
             <Card13 />
           </Route>
-          <Route path="/14">
+          <Route path="/jungle-manji/14">
             <Card14 />
           </Route>
-          <Route path="/15">
+          <Route path="/jungle-manji/15">
             <Card15 />
           </Route>
-          <Route path="/16">
+          <Route path="/jungle-manji/16">
             <Card16 />
           </Route>
-          <Route path="/17">
+          <Route path="/jungle-manji/17">
             <Card17 />
           </Route>
-          <Route path="/18">
+          <Route path="/jungle-manji/18">
             <Card18 />
           </Route>
-          <Route path="/19">
+          <Route path="/jungle-manji/19">
             <Card19 />
           </Route>
-          <Route path="/20">
+          <Route path="/jungle-manji/20">
             <Card20 />
           </Route>
-          <Route path="/21">
+          <Route path="/jungle-manji/21">
             <Card21 />
           </Route>
-          <Route path="/22">
+          <Route path="/jungle-manji/22">
             <Card22 />
           </Route>
-          <Route path="/23">
+          <Route path="/jungle-manji/23">
             <Card23 />
           </Route>
-          <Route path="/24">
+          <Route path="/jungle-manji/24">
             <Card24 />
           </Route>
-          <Route path="/25">
+          <Route path="/jungle-manji/25">
             <Card25 />
           </Route>
-          <Route path="/26">
+          <Route path="/jungle-manji/26">
             <Card26 />
           </Route>
-          <Route path="/27">
+          <Route path="/jungle-manji/27">
             <Card27 />
           </Route>
-          <Route path="/28">
+          <Route path="/jungle-manji/28">
             <Card28 />
           </Route>
-          <Route path="/29">
+          <Route path="/jungle-manji/29">
             <Card29 />
           </Route>
-          <Route path="/30">
+          <Route path="/jungle-manji/30">
             <Card30 />
           </Route>
         </Switch>
