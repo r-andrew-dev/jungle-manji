@@ -27,4 +27,4 @@ A few cards from the game and the QR Codes:
 <img src="public/images/CARD3.png"></img>
 
 
-<img src="public/images/QRCODES.png"></img>
+<img src="public/images/QRCODES.jpg"></img>
